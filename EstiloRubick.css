@@ -1,0 +1,56 @@
+body{
+    background-color: #ebc78e;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color:#c40202
+    
+}
+p{
+    color: blue;
+    text-align: justify;
+}
+nav{
+    list-style: none;
+    padding: 0px;
+    background: rgb(107, 0, 107);
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+nav ul{
+    text-align: center;
+}
+nav li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+nav li{
+    display: inline-block;
+    text-align: center;
+}
+nav li a:hover{
+    background: rgb(190, 51, 255);
+}
+.resaltado{
+    color:green;
+    border: 4px;
+    border-color:maroon;
+    border-style: solid;
+    border-radius: 6px;
+}
+.rojochillon{
+    color:rgb(245, 78, 12);
+    font-weight: bold;
+    text-decoration:underline;
+    text-decoration-color: mediumvioletred;
+    text-decoration-style: dotted;
+}
+#Foto1{
+    width: 35%;
+    border: 3px solid yellow;
+    border-radius: 9px;
+}
